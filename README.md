@@ -10,11 +10,16 @@ Scope/Description: We will research the relationship between avocado price and o
 Research questions to be answered:  Where are avocados grown? What is the climate/weather pattern in those areas? What are the demographics of people who buy avocados? Is there a pattern between rising prices and sporting events/holidays? What about drought/changing weather patterns and price?
 
 Sources to be used:
+
 https://www.kaggle.com/neuromusic/avocado-prices
+
 https://www.ncdc.noaa.gov/data-access
+
 https://data.world/sports/history-of-the-super-bowl
 
+
 Rough breakdown of tasks: 
+
 •	Kerry-
 
 
