@@ -20,10 +20,10 @@ https://data.world/sports/history-of-the-super-bowl
 
 Rough breakdown of tasks: 
 
-•	Kerry-
+•	Kerry- research and visualize the relationship between avocado price and timing of sporting events
 
 
-•	Brian-
+•	Brian- research and visualize the relationship between price and weather events in growing regions
 
 
-•	Mark-
+•	Mark- research the relationship between price and demographics of buyers
